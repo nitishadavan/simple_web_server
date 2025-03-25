@@ -95,8 +95,9 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/204604a5-d3fa-46da-8d5e-258d36a28b26)
 
-![image](https://github.com/user-attachments/assets/8ba38cc4-9715-4a14-9407-9137363f1418)
+![image](https://github.com/user-attachments/assets/038ffae5-a06a-4e83-88e7-5bddbc9285ce)
 
 ## Name:D.Nitish Adavan
 
